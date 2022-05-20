@@ -1,0 +1,16 @@
+#pane {
+
+
+ -fx-background-image: url("Images/Path.png");
+ -fx-background-position: center center;
+ -fx-background-size: 99% 99%
+
+}
+#pane1 {
+    -fx-background-color: #64b5f6;
+}
+#pane2 {
+
+   -fx-background-color: #0d47a1;
+}
+
